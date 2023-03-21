@@ -1,4 +1,4 @@
-#Instalación del servicio de saludo y fecha actual
+# Instalación del servicio de saludo y fecha actual
 
 Este es un tutorial para instalar el servicio de saludo y fecha, este se ejecuta utilizando un script.
 
